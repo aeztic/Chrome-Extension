@@ -1,7 +1,6 @@
-# coc8640b4ab7ea074c56f6bdc
+# Chrome-Extension
 
 Quick start:
-
 ```
 $ npm install
 $ npm start
@@ -19,4 +18,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-# Chrome-Extension
